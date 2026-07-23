@@ -1,0 +1,32 @@
+2026-07-22 12:17:15 | To: harshaatla2007@gmail.com | HTTP: 400 | Response: {"errors":[{"message":"If present, text/plain must be first, followed by text/html, followed by any other content.","field":"content","help":null}]}
+2026-07-22 12:17:36 | To: jyothiswardwarasala@gmail.com | HTTP: 400 | Response: {"errors":[{"message":"If present, text/plain must be first, followed by text/html, followed by any other content.","field":"content","help":null}]}
+2026-07-22 12:22:40 | To: jyothiswardwarasala@gmail.com | HTTP: 400 | Response: {"errors":[{"message":"If present, text/plain must be first, followed by text/html, followed by any other content.","field":"content","help":null}]}
+2026-07-22 12:25:08 | To: jyothiswardwarasala@gmail.com | HTTP: 202 | Response: 
+2026-07-22 12:26:02 | To: harshaatla2007@gmail.com | HTTP: 202 | Response: 
+[22-Jul-2026 12:39:15 America/New_York] === respond_invite.php called ===
+[22-Jul-2026 12:39:15 America/New_York] POST data: Array
+(
+    [invite_id] => 1
+    [action] => accept
+)
+
+[22-Jul-2026 12:39:15 America/New_York] SESSION user_id: 2
+[22-Jul-2026 12:39:15 America/New_York] Processing: user_id=2, invite_id=1, action=accept
+[22-Jul-2026 12:39:15 America/New_York] Found invite: group_id = 1
+[22-Jul-2026 12:39:15 America/New_York] Added user 2 to group 1
+[22-Jul-2026 12:39:15 America/New_York] Invite 1 marked as accepted
+[22-Jul-2026 12:39:43 America/New_York] === respond_invite.php called ===
+[22-Jul-2026 12:39:43 America/New_York] POST data: Array
+(
+    [invite_id] => 2
+    [action] => accept
+)
+
+[22-Jul-2026 12:39:43 America/New_York] SESSION user_id: 3
+[22-Jul-2026 12:39:43 America/New_York] Processing: user_id=3, invite_id=2, action=accept
+[22-Jul-2026 12:39:43 America/New_York] Found invite: group_id = 1
+[22-Jul-2026 12:39:43 America/New_York] Added user 3 to group 1
+[22-Jul-2026 12:39:43 America/New_York] Invite 2 marked as accepted
+2026-07-22 12:46:55 | To: hashrithchintanaga@gmail.com | HTTP: 202 | Response: 
+2026-07-22 13:14:28 | To: hashrithchintanaga@gmail.com | HTTP: 202 | Response: 
+2026-07-22 13:14:50 | To: hashrithchintanaga@gmail.com | HTTP: 202 | Response: 
