@@ -1,7 +1,7 @@
 # 💸 SplitEase – Group Expense Splitter
 
 **👥 Team Members:**  
-[**Asmath Abbas**](https://github.com/AsmathAbbas) · [**Harsha Atla**](https://github.com/Harsha-156) · [**Jyothiswar Reddy Dwarasala**](https://github.com/Jyothiswar1019)
+[**Asmath Abbas**](https://github.com/AsmathAbbas) · [**Harsha Atla**](https://github.com/Harsha-156) · [**Jyothiswar Reddy Dwarasala**](https://github.com/Jyothiswar1019) . [**Bade Vasanth Kumar**]
 
 ---
 
