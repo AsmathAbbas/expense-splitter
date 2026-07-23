@@ -7,7 +7,7 @@
 
 **SplitEase** is a full-stack web application that helps groups of friends, roommates, or colleagues track shared expenses and automatically calculates the minimum number of payments needed to settle everyone's balances. No more messy spreadsheets or confusing IOU lists – just add expenses, and SplitEase tells you who owes whom.
 
-🔗 **Live Demo:** [Your InfinityFree URL here]
+🔗 **Live Demo:** [https://split-ease.page.gd/]
 
 ---
 
