@@ -15,7 +15,10 @@
 
 | Dashboard | Group Page | Settlement Plan |
 |-----------|------------|-----------------|
-| *(Add screenshot here)* | *(Add screenshot here)* | *(Add screenshot here)* |
+| <img width="1440" height="816" alt="dashboard" src="https://github.com/user-attachments/assets/c5777577-9dbd-4c56-bd7b-fcbdcc3788b6" />
+ | <img width="1437" height="815" alt="group_page" src="https://github.com/user-attachments/assets/beead0f8-651c-4b43-a5fc-442760a0cb6d" />
+ | <img width="1440" height="814" alt="settlement_plan" src="https://github.com/user-attachments/assets/ac653667-c7a8-4681-9fa0-5ff1b699e0cb" />
+ |
 
 ---
 
